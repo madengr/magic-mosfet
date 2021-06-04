@@ -1,4 +1,62 @@
 magic
 tech sky130A
-timestamp 1609431327
+timestamp 1622839791
+<< error_p >>
+rect -93 45 -57 48
+rect -90 18 -87 45
+rect -60 18 -57 45
+rect -90 15 -57 18
+rect -60 12 -57 15
+<< nmos >>
+rect 40 0 55 65
+<< ndiff >>
+rect 0 50 40 65
+rect 0 15 15 50
+rect 25 15 40 50
+rect 0 0 40 15
+rect 55 50 95 65
+rect 55 15 70 50
+rect 80 15 95 50
+rect 55 0 95 15
+<< ndiffc >>
+rect 15 15 25 50
+rect 70 15 80 50
+<< psubdiff >>
+rect -40 50 0 65
+rect -40 15 -25 50
+rect -15 15 0 50
+rect -40 0 0 15
+<< psubdiffcont >>
+rect -25 15 -15 50
+<< poly >>
+rect 40 65 55 80
+rect 40 -15 55 0
+rect 15 -25 55 -15
+rect 15 -45 25 -25
+rect 45 -45 55 -25
+rect 15 -55 55 -45
+<< polycont >>
+rect 25 -45 45 -25
+<< locali >>
+rect -40 50 35 60
+rect -40 45 -25 50
+rect -60 15 -25 45
+rect -15 15 15 50
+rect 25 15 35 50
+rect -40 5 35 15
+rect 60 50 150 60
+rect 60 15 70 50
+rect 80 15 150 50
+rect 60 5 150 15
+rect 15 -25 55 -15
+rect 15 -45 25 -25
+rect 45 -45 55 -25
+rect 15 -85 55 -45
+<< viali >>
+rect -90 15 -60 45
+<< rmetal1 >>
+rect -105 45 -45 60
+rect -105 15 -90 45
+rect -60 15 -45 45
+rect -105 -45 -45 15
 << end >>
